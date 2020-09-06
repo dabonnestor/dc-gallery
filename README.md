@@ -2,7 +2,7 @@
 
 Inspired by instagram, in this challenge you will work with a similar design to instagram profile page.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0905639f-eb43-47f1-90e3-427021c6defa/deploy-status)](https://app.netlify.com/sites/lucid-beaver-abf335/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9bebd7eb-eed9-492a-b527-3b079ea421f8/deploy-status)](https://app.netlify.com/sites/angry-hamilton-dee5b6/deploys)
 
 ## Installation
 
